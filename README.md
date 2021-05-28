@@ -1,6 +1,7 @@
 ### RightFluencer
 
 This repository contains the codebase and the documentation related to the CMPT 733 Project.
+Take a look into the quick introductory video [https://www.youtube.com/watch?v=mSm0ifBBYD0]
 
 #### Web URL
 The application is hosted on the Google Cloud platform at the following URL: [rightfluencer.ml](http://rightfluencer.ml)
